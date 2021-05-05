@@ -1,11 +1,8 @@
 import React from "react";
-import Header from "../../components/header/Header";
-import Footer from "../../components/footer/Footer";
-import SocialMedia from "../../components/socialMedia/SocialMedia";
 
 import { Fade } from "react-reveal";
 import "../contact/ContactComponent.css";
-import { greeting, contactPageData } from "../../portfolio.js";
+import { contactPageData } from "../../portfolio.js";
 import { style } from "glamor";
 import BlogsImg from "../contact/BlogsImg";
 

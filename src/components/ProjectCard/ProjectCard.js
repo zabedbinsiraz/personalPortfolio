@@ -3,7 +3,6 @@ import ProjectLanguages from "../projectLanguages/ProjectLanguages";
 import "./ProjectCard.css";
 import { Fade } from "react-reveal";
 import { style } from "glamor";
-import jabed from "../../jabed-pro.jpg";
 
 export default function ProjectCard({ repo, theme }) {
   function openRepoinNewTab(url) {
