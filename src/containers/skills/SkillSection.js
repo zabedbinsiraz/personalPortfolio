@@ -8,14 +8,6 @@ import CloudInfraImg from "./CloudInfraImg";
 import projectImg from "../../assests/images/projects.png";
 // import DesignImg from "./DesignImg";
 
-function GetSkillSvg(props) {
-  if (props.fileName === "FullStackImg")
-    return <FullStackImg theme={props.theme} />;
-  else if (props.fileName === "CloudInfraImg")
-    return <CloudInfraImg theme={props.theme} />;
-  // return <DesignImg theme={props.theme} />;
-}
-
 function SkillSection(props) {
   const theme = props.theme;
   return (

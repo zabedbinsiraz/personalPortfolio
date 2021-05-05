@@ -9,7 +9,6 @@ import { style } from "glamor";
 
 export default function Greeting(props) {
   const theme = props.theme;
-  const history = useHistory();
 
   const styles = style({
     backgroundColor: `${theme.accentBright}`,

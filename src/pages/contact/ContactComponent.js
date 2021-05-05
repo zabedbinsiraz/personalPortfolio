@@ -8,17 +8,9 @@ import emailjs from "emailjs-com";
 import { useState } from "react";
 
 const ContactData = contactPageData.contactSection;
-const blogSection = contactPageData.blogSection;
 
 function Contact(props) {
   const theme = props.theme;
-
-  const styles = style({
-    backgroundColor: `${theme.accentBright}`,
-    ":hover": {
-      boxShadow: `0 5px 15px ${theme.accentBright}`,
-    },
-  });
 
   const [isSend, setIsSend] = useState(false);
   function sendEmail(e) {

@@ -6,18 +6,10 @@ import { contactPageData } from "../../portfolio.js";
 import { style } from "glamor";
 import BlogsImg from "../contact/BlogsImg";
 
-const ContactData = contactPageData.contactSection;
 const blogSection = contactPageData.blogSection;
 
 function Blogs(props) {
   const theme = props.theme;
-
-  const styles = style({
-    backgroundColor: `${theme.accentBright}`,
-    ":hover": {
-      boxShadow: `0 5px 15px ${theme.accentBright}`,
-    },
-  });
 
   return (
     <div className="contact-main">

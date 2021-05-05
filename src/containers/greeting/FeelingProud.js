@@ -2,8 +2,7 @@ import React from "react";
 import "./FeelingProud.css";
 import jabed from "../../jabed-pro.jpg";
 
-function FeelingProud(props) {
-  const theme = props.theme;
+function FeelingProud() {
   return (
     // <svg
     //   version="1.1"
