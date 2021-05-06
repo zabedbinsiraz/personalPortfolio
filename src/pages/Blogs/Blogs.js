@@ -3,7 +3,6 @@ import React from "react";
 import { Fade } from "react-reveal";
 import "../contact/ContactComponent.css";
 import { contactPageData } from "../../portfolio.js";
-import { style } from "glamor";
 import BlogsImg from "../contact/BlogsImg";
 
 const blogSection = contactPageData.blogSection;
