@@ -20,9 +20,10 @@ function Education(props) {
                 className="experience-header-detail-text subTitle"
                 style={{ color: theme.secondaryText }}
               >
-                I actively participate in hackathons and other tech-related
-                activities. Below are some of my major
-                certifications.lorem15l;j[ertlsdjgoidjgod]
+                I have completed a long course on web development and JavaScript
+                programming. Always try to solve the problems from hackerRank
+                and actively participate in other tech-related activities. Below
+                are some of my major projects and others.
               </p>
             </div>
           </div>
@@ -76,7 +77,7 @@ function Education(props) {
                   <div className="left-div">
                     <h3> CAREER OBJECTIVE</h3>
                   </div>
-                  <div className="right-div">
+                  <div className="right-div" style={{ color: "darkslategray" }}>
                     <p>
                       I am a dedicated front-end web developer. Always love to
                       solve any type of web related problems and also love to
@@ -95,7 +96,7 @@ function Education(props) {
                   <div className="left-div">
                     <h3>DEVELOPING SKILLS</h3>
                   </div>
-                  <div className="right-div">
+                  <div className="right-div" style={{ color: "darkslategray" }}>
                     <p>
                       <strong>Comfortable:</strong> JavaScript, ES6, React,
                       Redux, React Router, Next.js, HTML, CSS, SASS, Bootstrap{" "}
@@ -119,7 +120,7 @@ function Education(props) {
                   <div className="left-div">
                     <h3>MY PROJECTS</h3>
                   </div>
-                  <div className="right-div">
+                  <div className="right-div" style={{ color: "darkslategray" }}>
                     <h4>
                       {" "}
                       <a href="https://plumbing-hero.web.app/" target="blank">
@@ -241,7 +242,7 @@ function Education(props) {
                   <div className="left-div">
                     <h3>EDUCATION</h3>
                   </div>
-                  <div className="right-div">
+                  <div className="right-div" style={{ color: "darkslategray" }}>
                     <p>
                       <strong>
                         National University Bangladesh - BSc in Mathematics -
@@ -255,7 +256,7 @@ function Education(props) {
               <div className="clear-div"></div>
               <hr className="common-hr" />
 
-              <section id="ielts-section">
+              {/* <section id="ielts-section">
                 <div className="content">
                   <div className="left-div">
                     <h3>DECLARATION</h3>
@@ -267,7 +268,7 @@ function Education(props) {
                     </p>
                   </div>
                 </div>
-              </section>
+              </section> */}
 
               <div className="clear-div"></div>
               <hr className="common-hr" />
@@ -284,7 +285,7 @@ function Education(props) {
               <a href=" https://github.com/zabedbinsiraz" target="blank">
                 GitHub
               </a>
-              <p>Copyright &copy; Mohammad Jabed Hossain 2021</p>
+              {/* <p>Copyright &copy; Mohammad Jabed Hossain 2021</p> */}
             </footer>
           </div>
         </Fade>

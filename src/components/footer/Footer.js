@@ -11,9 +11,10 @@ export default function Footer(props) {
       <SocialMedia />
       <Fade>
         <p className="footer-text" style={{ color: props.theme.secondaryText }}>
-          Made with <span role="img">❤️</span> by {greeting.title2}
+          Developed by {greeting.title2}
         </p>
       </Fade>
+      {/* <p><span role="img">❤️</span></p> */}
     </div>
   );
 }

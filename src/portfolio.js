@@ -29,9 +29,9 @@ const greeting = {
   title2: "Jabed Hossain",
   logo_name: "JABED",
   nickname: "MJ",
-  full_name: "Web App Developer",
+  full_name: "WEB APP DEVELOPER",
   subTitle:
-    "As a complete web developer I have completed about 10 of MERN stuck projects. ",
+    "As a full stack web developer I have completed 10 MERN stuck projects. Now, I am ready to be hire as a dedicated web developer for your renowned company.",
   resumeLink:
     "https://docs.google.com/document/d/1A_jWRG74Rst427tg1izLa6vRXclS9_9F856jWJPJlDY/edit?usp=sharing",
   mail: "mailto:hossainjabed3@gmail.com",
@@ -42,9 +42,8 @@ const socialMediaLinks = {
   github: "https://github.com/zabedbinsiraz",
   linkedin: "https://www.linkedin.com/in/mohammad-jabed-hossain-913b14198/",
   gmail: "hossainjabed3@gmail.com",
-  gitlab: "https://gitlab.com/zabedbinsiraz",
   facebook: "https://www.facebook.com/zabedbinsiraz",
-  twitter: "https://twitter.com/zabedbinsiraz",
+  twitter: "https://twitter.com/JABEDHO17555204",
   instagram: "https://www.instagram.com/zabedbinsiraz",
 };
 
@@ -56,9 +55,9 @@ const skills = {
       skills: [
         "⚡ Develop highly interactive Front end / User Interfaces for your web and mobile applications",
         "⚡ Building responsive website front end using ReactJS",
-        "⚡ Developing mobile applications using Flutter and Android",
-        "⚡ Creating application backend in Node, Express & Flask",
-        "⚡ Integration of third party services such as Firebase/ AWS / Digital Ocean",
+        "⚡ Developing mobile applications using React Native",
+        "⚡ Creating application backend in Node, Express & MongoDB",
+        "⚡ Integration of third party services such as Firebase/ AWS ",
       ],
       softwareSkills: [
         {
@@ -441,14 +440,14 @@ const projectsHeader = {
 const contactPageData = {
   contactSection: {
     title: "Contact Me",
-    profile_image_path: "harikrushn.jpg",
+    profile_image_path: "jabed-pro.jpg",
     description:
-      "You can contact me at the places mentioned below.You can contact me at the places mentioned below. I will try to get back to you as fast as I can. ",
+      "To know about me in detail or test any simple task doing by me, You can contact me at the places mentioned below. I will try to get back to you as fast as I can. So, get in touch me friendly. ",
   },
   blogSection: {
     title: "Blogs",
     subtitle:
-      "I don't blog frequently but when I do something awesome, I do try to document it so it can be helpful to others. I write on Twitter.",
+      "When I learn any new technology or critical something, I do try to document it so it can be helpful to others. I write on my social sites and blogs.",
     link: "https://twitter.com/Harikrushn9",
     avatar_image_path: "blogs_image.svg",
   },

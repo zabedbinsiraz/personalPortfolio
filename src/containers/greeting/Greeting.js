@@ -22,17 +22,21 @@ export default function Greeting(props) {
         <div className="greeting-main">
           <div className="greeting-text-div">
             <div>
-              <h1 className="greeting-text">{greeting.title}</h1>
+              <p style={{ fontSize: "2.5em" }} className="greeting-text">
+                {greeting.title}
+              </p>
               <p
                 className="greeting-text-p subTitle"
                 style={{ color: theme.secondaryText }}
               >
                 <br />
-                <span style={{ color: theme.accentColor }}>
-                  {greeting.full_name}.{" "}
+                <span style={{ color: theme.accentColor, fontSize: "1.5em" }}>
+                  {greeting.full_name}{" "}
                 </span>
                 <br />
-                {greeting.subTitle}
+                <span style={{ fontSize: "0.9em", textAlign: "justify" }}>
+                  {greeting.subTitle}
+                </span>
               </p>
               <br />
 

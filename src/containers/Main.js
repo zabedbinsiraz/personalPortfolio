@@ -51,7 +51,7 @@ export default function Main(propss) {
               )}
             />
             <Route
-              path="/education"
+              path="/resume"
               render={(props) => (
                 <Education
                   {...props}
@@ -144,7 +144,7 @@ export default function Main(propss) {
               )}
             />
             <Route
-              path="/education"
+              path="/resume"
               render={(props) => (
                 <Education
                   {...props}

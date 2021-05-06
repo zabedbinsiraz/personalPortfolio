@@ -55,6 +55,13 @@ function Blogs(props) {
                 style={{ color: theme.secondaryText }}
               >
                 {blogSection["subtitle"]}
+              </p>{" "}
+              <br />
+              <p
+                className="blog-header-detail-text subTitle"
+                style={{ color: theme.secondaryText }}
+              >
+                <strong>comming soon 3 blogs on vanilla JavaScript.....</strong>
               </p>
             </div>
             <div className="blog-heading-img-div">
