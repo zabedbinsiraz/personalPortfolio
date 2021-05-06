@@ -7,4 +7,4 @@ Projects
 Resume
 Blogs
 
-Developed by Jabed Hossain.
+https://jabed-portfolio.netlify.app/
