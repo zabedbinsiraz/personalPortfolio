@@ -38,8 +38,8 @@ body {
 }
 
 .ball {
-  width: 45px;
-  height: 5px;
+  width: 27px;
+  height: 3px;
   margin: 7px auto;
   border-radius: 50px;
 }

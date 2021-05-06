@@ -40,7 +40,7 @@ const greeting = {
 const socialMediaLinks = {
   /* Your Social Media Link */
   github: "https://github.com/zabedbinsiraz",
-  linkedin: "https://www.linkedin.com/in/mohammad-jabed-hossain-913b14198/",
+  linkedin: "https://www.linkedin.com/in/zabedbinsiraz/",
   gmail: "hossainjabed3@gmail.com",
   facebook: "https://www.facebook.com/zabedbinsiraz",
   twitter: "https://twitter.com/JABEDHO17555204",

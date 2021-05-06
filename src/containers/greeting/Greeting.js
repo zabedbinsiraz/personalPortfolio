@@ -44,7 +44,7 @@ export default function Greeting(props) {
                 <a
                   {...styles}
                   className=" button "
-                  href="https://drive.google.com/uc?export=download&amp;id=1xAGXJkE02PKhn9-7OYwKrKUYoSL84Icm"
+                  href="https://drive.google.com/uc?export=download&amp;id=1QwWoVzfrhWyj0LAuJEvEueyhegZ9WAq9"
                   role="button"
                 >
                   Download Resume

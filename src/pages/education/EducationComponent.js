@@ -31,7 +31,7 @@ function Education(props) {
           <div className="m-2 p-2 text-center">
             <a
               className="btn btn-success "
-              href="https://drive.google.com/uc?export=download&amp;id=1xAGXJkE02PKhn9-7OYwKrKUYoSL84Icm"
+              href="https://drive.google.com/uc?export=download&amp;id=1QwWoVzfrhWyj0LAuJEvEueyhegZ9WAq9"
               role="button"
             >
               download

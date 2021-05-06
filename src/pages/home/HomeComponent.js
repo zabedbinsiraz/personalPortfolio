@@ -7,7 +7,7 @@ import Contact from "../contact/ContactComponent";
 
 function Home(props) {
   return (
-    <div>
+    <div style={{ width: "100%" }}>
       {/* <Header theme={props.theme} setTheme={props.setTheme} /> */}
       <Greeting theme={props.theme} />
 
